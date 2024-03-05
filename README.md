@@ -5,7 +5,9 @@ FANTINO(name, eta)
 eta >=25
 
 CAVALLO(nome, eta, scuderia)
+
 COPPIA( pettorale, nazione, fantino, cavallo)
+
 CE: fantino -> FANTINO
 CE: cavllo -> CAVALLO
 UNI:{fantino, cavallo}
