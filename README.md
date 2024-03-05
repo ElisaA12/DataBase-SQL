@@ -1,4 +1,7 @@
 # Specifiche progetto per l’esame di DataBase 
+*Elisa Acciari A.A. 2020/2021
+Università degli Studi di Perugia.*
+
 
 Scrivere uno schema relativo ad un sistema di gestione delle corse di cavalli, con la seguente relazioni:
 FANTINO(name, eta)  
