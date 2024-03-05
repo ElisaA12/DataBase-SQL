@@ -1,4 +1,6 @@
-Write a schema related to a horse racing management system, with the following relation:
+# Specifiche progetto per l’esame di DataBase 
+
+Scrivere uno schema relativo ad un sistema di gestione delle corse di cavalli, con la seguente relazioni:
 FANTINO(name, eta)  
 eta >=25
 
@@ -17,4 +19,5 @@ la data, l'ippodromo in cui si è svolta  o si svolgerà e il vincitore (pettora
 
 Andiamo a definire un script SQL per la generazione e a popolazione di uno schema di Ippica che implementa lo schema relazione proposto.
 Tale script dovrà essere composto da 3 parti principali.
+
 
